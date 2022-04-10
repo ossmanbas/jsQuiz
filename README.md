@@ -1,3 +1,3 @@
 # jsQuiz
-<img src="https://prnt.sc/1z_l-RICL_M3"></img>
-https://prnt.sc/1z_l-RICL_M3
+<img href="https://prnt.sc/1z_l-RICL_M3"></img>
+
